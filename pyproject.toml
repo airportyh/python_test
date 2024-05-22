@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "repl_nix_admirableglossyconversion"}]
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.8"
 requests = "^2.32.2"
 
 [build-system]
